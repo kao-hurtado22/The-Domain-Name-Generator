@@ -1,1 +1,20 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+/* @import "~bootstrap/dist/css/bootstrap.min.css";
+ */
+
+h1 {
+  font-size: 40px;
+  display: flex;
+  color: white;
+  justify-content: center;
+  background-color: blueviolet;
+
+  position: relative;
+  bottom: -30px;
+}
+h2 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: -20px;
+}
